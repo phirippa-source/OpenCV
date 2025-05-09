@@ -20,4 +20,4 @@ else:
             break
         
     cap.release()
-    cv2.destroyAllwindows()
+    cv2.destoryAllwindows()
